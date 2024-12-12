@@ -1,7 +1,7 @@
 # point-it
 Planning poker style webapp
 
-### Todo
+## Todo
 #### Server
 - [ ] something
 - [ ] something
